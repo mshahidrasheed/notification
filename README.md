@@ -1,5 +1,5 @@
 # Notification
-Notification is a windows form application that used for generate alert messages or notification.
+Notification is a windows form application that used for generate popup alert messages or notification.
 User of this application edit alert form according his/her requirements. 
 This is a custom alert windows form that having feature of auto hide.
 
